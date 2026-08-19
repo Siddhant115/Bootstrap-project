@@ -1,0 +1,27 @@
+#header,#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#menubar{
+    background-color: beige;
+    text-align: center;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    
+    
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    margin-right: 50px;
+
+}
+ul li a:hover{
+    background-color: red;
+    color: burlywood;
+    font-weight: bold;
+}
